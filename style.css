@@ -8,6 +8,10 @@ body {
   background: #DEFED2;
   font-family: 'Catamaran', sans-serif;
 }
+.section-header {
+  font-size: 20px;
+  font-weight: 400;
+}
 p  {
   color: #43AB67;
 }
@@ -147,7 +151,7 @@ nav > ul {
   text-transform: uppercase;
 }
   /* #hero > p {
-  margin-bottom: 20px; 
+  margin-bottom: 20px;
 } */
 
 #hero input[type="email"] {
@@ -318,7 +322,7 @@ footer > ul {
 }
 
 footer > ul > li {
-  
+
   padding: 0 10px;
 }
 
@@ -329,8 +333,3 @@ footer > span {
   font-size: 0.9em;
   color: #444;
 }
-
-
-
-
-
